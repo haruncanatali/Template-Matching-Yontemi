@@ -13,7 +13,7 @@ Merhaba bu uygulamada Template Matching tekniği kullanılarak Python dilinde ne
 ##### Simule edilmesi
 ![image](https://user-images.githubusercontent.com/77530565/104892990-ec997580-5983-11eb-855c-2cf2f535eef1.png)
 
-- uTemplate Matching yönteminde kaynak ile şablonu eşleştirirken kullanılan farklı yöntemler vardır. Bu yöntemler aşağıdaki gibidir.
+- Template Matching yönteminde kaynak ile şablonu eşleştirirken kullanılan farklı yöntemler vardır. Bu yöntemler aşağıdaki gibidir.
 
 		•  TM_CCOEFF
 
